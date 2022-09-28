@@ -2,9 +2,12 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7XJPwb8QETOQrcwASuXprb0KCHveZPwU5iv0268zlWw=",
-        "type": "tarball",
-        "url": "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/nixos-unstable/nixexprs.tar.xz"
+        "lastModified": 1664322887,
+        "narHash": "sha256-7QkJUStwVHV+qLd4uHcTQAhllRtkwifbSvIEO3+m47c=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "c971f5a058e3419fb6a94ce5d763a7fd43e51e39",
+        "type": "github"
       },
       "original": {
         "owner": "NixOS",
