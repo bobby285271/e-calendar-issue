@@ -2,10 +2,14 @@ See https://github.com/elementary/calendar/issues/756#issuecomment-1249990402
 
 ##### Usage
 
+glib 2.73.1+:
+
 ```
 $ nix run --override-input nixpkgs github:NixOS/nixpkgs/gnome
 ** (process:6426): WARNING **: 22:14:24.736: Application.vala:6: bar
 ```
+
+Older glib:
 
 ```
 $ nix run --override-input nixpkgs github:NixOS/nixpkgs/nixos-unstable
