@@ -16,3 +16,7 @@ $ nix run --override-input nixpkgs github:NixOS/nixpkgs/nixos-unstable
 ** (process:5433): WARNING **: 22:14:11.281: Application.vala:6: foo
 ** (process:5433): WARNING **: 22:14:11.283: Application.vala:6: bar
 ```
+
+##### Status
+
+This is later discussed in [#gtk:gnome.org](https://matrix.to/#/!aUhETchlgthwWVQzhi:matrix.org/$166465243532985RGFsL:matrix.org?via=gnome.org&via=matrix.org&via=mozilla.org) and a possible fix is https://github.com/elementary/calendar/pull/763.
